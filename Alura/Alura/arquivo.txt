@@ -1,0 +1,5 @@
+- Fazer a seta funcionar (da páginal inicial)
+- Integrar api de login
+- integrar api de cadastro
+- Descobrir como fazer o botão "criar playlist" funcionar
+- Integrar uma api para o inscreva-se grátis

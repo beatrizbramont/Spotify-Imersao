@@ -1,0 +1,13 @@
+:root{
+    /*FONT*/
+    --font-dm-sans: "DM Sans", sans-serif; /*Criamos essa variável para fonte de texto padrão
+    - podemos retirar todos os font-family das outras partes do css*/
+
+    /* Colors */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,07);
+}
+
+/* Podemos declarar uma variável para tudo que estiver muito repetido no código e no css só chamamos essa variável */
+
+
